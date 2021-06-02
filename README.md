@@ -2,7 +2,12 @@
 ## Description
 Project for Applied Bayesian Statistics. Applies a Variational Autoregressive LSTM with Probabilistic Layers for forecasting Cryptocurrency trade volume. Implements different Tensorflow Probability layers as Likelihood Models for the data.
 
-
+## Getting Started
+`LstmRnn.py` - Tensorflow Model 
+`WindowGenerator.py` - Data loader for `LstmRnn.py`
+`layers.py` - Tensorflow Probability Likelihood models and aux. Keras layers
+`main.py` - script to invoke model
+`demo_notebook.ipynb` - `main.py` in notebook form
 
 ## Authors
 jakee417
