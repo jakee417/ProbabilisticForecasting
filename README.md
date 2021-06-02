@@ -10,8 +10,8 @@ Project for Stanfords Stats 271, Applied Bayesian Statistics. Implements a Varia
 * `demo_notebook.ipynb` - `main.py` in notebook form
 
 ## Authors
-jakee417
-sandymule
+* jakee417
+* sandymule
 
 ## Acknowledgments
 
