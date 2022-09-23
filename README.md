@@ -11,7 +11,7 @@ Project for Stanfords Stats 271, Applied Bayesian Statistics. Implements a Varia
 
 ## Authors
 * jakee417
-* sandymule
+* koalateectrl
 
 ## Acknowledgments
 
